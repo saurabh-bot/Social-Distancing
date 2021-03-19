@@ -14,3 +14,7 @@ Technologies used:
 App screenshots
 
 ![home screen](https://github.com/saurabh-bot/Social-Distancing/blob/master/Images/a.jpg)
+![bluetooth on and it started scanning](https://github.com/saurabh-bot/Social-Distancing/blob/master/Images/b.jpg)
+![showing near bluetooth devices and giving alert](https://github.com/saurabh-bot/Social-Distancing/blob/master/Images/c.jpg)
+![Navigation bar](https://github.com/saurabh-bot/Social-Distancing/blob/master/Images/d.jpg)
+![Share](https://github.com/saurabh-bot/Social-Distancing/blob/master/Images/e.jpg)
