@@ -5,3 +5,12 @@ In this android app I use bluetooth rssi to get the strength of a phone's blueto
 2m distance between them.
 When the people get near to another person this app will give both of them a vibrating message so that both people should maintain a perfect distance between them
 and remain safe.
+
+Technologies used: 
+1. Android Studio
+2. Bluetooth
+3. Java
+
+App screenshots
+
+![home screen](https://github.com/saurabh-bot/Social-Distancing/blob/master/Images/a.jpg)
