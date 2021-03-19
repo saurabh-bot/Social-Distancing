@@ -11,7 +11,10 @@ Technologies used:
 2. Bluetooth
 3. Java
 
-App screenshots
+#Video Link
+https://www.youtube.com/watch?v=PN2DU1pv_QM
+
+#App screenshots
 
 ![home screen](https://github.com/saurabh-bot/Social-Distancing/blob/master/Images/a.jpg)
 ![bluetooth on and it started scanning](https://github.com/saurabh-bot/Social-Distancing/blob/master/Images/b.jpg)
